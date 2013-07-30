@@ -1,0 +1,6 @@
+oauth.google.client_id = 1032771813420.apps.googleusercontent.com
+oauth.google.client_secret = d1kCTxDQDfAErLVr56C5WMPX
+users.email.skipAuthorization=true
+db.driver=org.postgresql.Driver
+db.url=jdbc:postgresql://localhost:5432/test?user=test&password=test
+#auto.login=-7416520350527485523
